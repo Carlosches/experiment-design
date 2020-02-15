@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Integrador\experiment-design\ui\bin\Debug\ui.exe.config
+C:\Users\User\Desktop\Integrador\experiment-design\ui\bin\Debug\ui.exe
+C:\Users\User\Desktop\Integrador\experiment-design\ui\bin\Debug\ui.pdb
+C:\Users\User\Desktop\Integrador\experiment-design\ui\obj\Debug\ui.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Integrador\experiment-design\ui\obj\Debug\ui.Properties.Resources.resources
+C:\Users\User\Desktop\Integrador\experiment-design\ui\obj\Debug\ui.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Integrador\experiment-design\ui\obj\Debug\ui.exe
+C:\Users\User\Desktop\Integrador\experiment-design\ui\obj\Debug\ui.pdb

@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\SortTest.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\SortTest.pdb
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\experiment-design.exe
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\experiment-design.pdb
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\experiment-design.exe.config
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\obj\Debug\SortTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\obj\Debug\SortTest.csproj.CopyComplete
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\obj\Debug\SortTest.dll
+C:\Users\User\Desktop\Integrador\experiment-design\SortTest\obj\Debug\SortTest.pdb
