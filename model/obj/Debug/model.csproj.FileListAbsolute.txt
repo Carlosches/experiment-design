@@ -5,3 +5,11 @@ C:\Users\User\Desktop\Integrador\experiment-design\model\obj\Debug\experiment_de
 C:\Users\User\Desktop\Integrador\experiment-design\model\obj\Debug\model.csproj.GenerateResource.cache
 C:\Users\User\Desktop\Integrador\experiment-design\model\obj\Debug\experiment-design.exe
 C:\Users\User\Desktop\Integrador\experiment-design\model\obj\Debug\experiment-design.pdb
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\bin\Debug\experiment-design.exe.config
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\bin\Debug\experiment-design.exe
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\bin\Debug\experiment-design.pdb
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\obj\Debug\experiment_design.Properties.Resources.resources
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\obj\Debug\model.csproj.GenerateResource.cache
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\obj\Debug\experiment-design.exe
+C:\Users\Ana Maria\Source\Repos\experiment-design\model\obj\Debug\experiment-design.pdb
